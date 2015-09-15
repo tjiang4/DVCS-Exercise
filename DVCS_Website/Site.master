@@ -76,6 +76,7 @@
         </div>
         <div class="container body-content">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                <p>This is a DVCS Exercise</p>
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
